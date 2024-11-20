@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# Output directories
+out/
+build/
+Debug/
+Release/
+x64/
+bin/
+
+# IDE specific files
+*.user
+*.suo
+*.userprefs
+*.sdf
+*.opensdf
